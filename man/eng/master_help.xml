@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY aa02dc796eb9a5a1495cbfacc52419f28 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/man/eng/closeserial.xml">
+<!ENTITY a90296e91c056416c8dd6efc3b1b96ec4 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/man/eng/openserial.xml">
+<!ENTITY a039b5db25aa21dff3477bc898178ef01 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/man/eng/readserial.xml">
+<!ENTITY a60e09014cac879f2562b6b4c5ab1bf35 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/man/eng/serialstatus.xml">
+<!ENTITY a34a3fb012938e445d772680d4750b725 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/man/eng/writeserial.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="en_US"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='help_chapter_1_manual'>
+    <title>Help chapter 1</title>
+  </info>
+
+<part xml:id='section_82469a9ec18f1880f9e5adcf19a5758b'>
+<title>Help chapter 1</title>
+&aa02dc796eb9a5a1495cbfacc52419f28;
+&a90296e91c056416c8dd6efc3b1b96ec4;
+&a039b5db25aa21dff3477bc898178ef01;
+&a60e09014cac879f2562b6b4c5ab1bf35;
+&a34a3fb012938e445d772680d4750b725;
+</part>
+</book>

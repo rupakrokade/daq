@@ -1,0 +1,14 @@
+load rakesh.ino in arduino
+
+open scilab
+change directory to flow-rakesh
+
+Type these in scilab console:-
+
+exec loader.sce
+handl = openserial('COM1',"9600,n,8")
+"check your com port"
+exec daq1.sci
+load daq.zcos
+
+Start xcos

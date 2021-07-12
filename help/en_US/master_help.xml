@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY acfd8b6c833f076a71227e21e32924f78 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/help/en_US/closeserial.xml">
+<!ENTITY ab38bab05879081bab59dc29d827c0577 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/help/en_US/openserial.xml">
+<!ENTITY a80dae1687e755f12d05e32a8fdfdae88 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/help/en_US/readserial.xml">
+<!ENTITY a7ffbfcfc0fb4cf3c60f42935c33994f0 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/help/en_US/serialstatus.xml">
+<!ENTITY af87b1c3ccc12b7f1da40eb996318d852 SYSTEM "file:///C:/testing/scilab_codes_local/common_files/help/en_US/writeserial.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="en_US"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='the_scilab_serial_communication_toolbox_manual'>
+    <title>The Scilab Serial Communication Toolbox</title>
+  </info>
+
+<part xml:id='section_f4c9959e6137b070fe0de9aa1a540fc4'>
+<title>The Scilab Serial Communication Toolbox</title>
+&acfd8b6c833f076a71227e21e32924f78;
+&ab38bab05879081bab59dc29d827c0577;
+&a80dae1687e755f12d05e32a8fdfdae88;
+&a7ffbfcfc0fb4cf3c60f42935c33994f0;
+&af87b1c3ccc12b7f1da40eb996318d852;
+</part>
+</book>
